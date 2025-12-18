@@ -41,5 +41,3 @@ printf("%d %d", zeros, cur_dir);
 
 fclose(ptr);
 }
-
-}
